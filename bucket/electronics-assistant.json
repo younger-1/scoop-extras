@@ -1,10 +1,10 @@
 {
-    "version": "4.31",
+    "version": "4.32",
     "description": "An electronics helper that offers resistor colour codes, capacitance and power calculations.",
     "homepage": "https://www.electronics2000.co.uk/",
     "license": "Freeware",
     "url": "https://www.electronics2000.co.uk/assist/assist.exe",
-    "hash": "c69620e62647f2868ae2e6ade93d93a320fd1307074d61e49fc928bab33c8d2d",
+    "hash": "c2d7ae31b788565f6c25f726bd0164e26ae605c8c742f51edd163e82a974d9e2",
     "innosetup": true,
     "shortcuts": [
         [
