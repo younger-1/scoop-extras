@@ -1,10 +1,10 @@
 {
-    "version": "1.3.1",
+    "version": "1.3.0",
     "description": "A tray application that shows a battery indicator for an XBox-ish controller and gives a notification when the battery level drops to (almost) empty.",
     "homepage": "https://github.com/NiyaShy/XB1ControllerBatteryIndicator",
     "license": "GPL-2.0-or-later",
-    "url": "https://github.com/NiyaShy/XB1ControllerBatteryIndicator/releases/download/v1.3.1/XB1ControllerBatteryIndicator_1.3.1.zip",
-    "hash": "6daa5e8e9d77ab20c44c1675dcf04969e26aa527d955e04f57db0494f747fc08",
+    "url": "https://github.com/NiyaShy/XB1ControllerBatteryIndicator/releases/download/v1.3.0/XB1ControllerBatteryIndicator_1.3.0.zip",
+    "hash": "afd3b99f98090a5b1e144f33423424852334ac08ebca4321cdd34525f86f9c5f",
     "bin": "XB1ControllerBatteryIndicator.exe",
     "shortcuts": [
         [
