@@ -1,5 +1,5 @@
 {
-    "version": "7.3.1.3",
+    "version": "7.3.2.2",
     "description": "Powerful office suite",
     "homepage": "https://libreoffice.org/",
     "license": "MPL-2.0",
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloadarchive.documentfoundation.org/libreoffice/old/7.3.1.3/win/x86_64/LibreOffice_7.3.1.3_Win_x64.msi#/dl.ism",
-            "hash": "fac74bbeed343424207dc7877fbc447ac391a0ceb90bdbac1b8fdbfef8d8f589"
+            "url": "https://downloadarchive.documentfoundation.org/libreoffice/old/7.3.2.2/win/x86_64/LibreOffice_7.3.2.2_Win_x64.msi#/dl.ism",
+            "hash": "f883840d2f5ec5e11aa58e8ffdab076e470c475f4092c49d63cf57eb8271fcea"
         },
         "32bit": {
-            "url": "https://downloadarchive.documentfoundation.org/libreoffice/old/7.3.1.3/win/x86/LibreOffice_7.3.1.3_Win_x86.msi#/dl.ism",
-            "hash": "9f66b4900167ab3d4ab1b3c802d7666ac985a220bd21f22439da21c120c5a8da"
+            "url": "https://downloadarchive.documentfoundation.org/libreoffice/old/7.3.2.2/win/x86/LibreOffice_7.3.2.2_Win_x86.msi#/dl.ism",
+            "hash": "05892f2b496ef70e0507fd9a9decf591eda99bb153489513311b827434be95d7"
         }
     },
     "pre_install": [
