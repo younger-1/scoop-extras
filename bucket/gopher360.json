@@ -1,10 +1,10 @@
 {
-    "version": "0.989",
+    "version": "0.985",
     "description": "App to turn a controller into a mouse and keyboard",
     "homepage": "https://github.com/Tylemagne/Gopher360",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/Tylemagne/Gopher360/releases/download/v0.989/Gopher.exe#/gopher360.exe",
-    "hash": "13b45c1487d4920df5acc5e69ab4d827e69f086bdf0e666244038856e5ac8d4d",
+    "url": "https://github.com/Tylemagne/Gopher360/releases/download/v0.985/Gopher.exe#/gopher360.exe",
+    "hash": "b9fdc5290a053ff00601b77fb4b4313fc37f4cae114ede57b6dab8238b72167f",
     "shortcuts": [
         [
             "gopher360.exe",
