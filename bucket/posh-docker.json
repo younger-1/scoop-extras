@@ -1,5 +1,5 @@
 {
-    "version": "0.7.0",
+    "version": "0.5.1",
     "description": "Powershell tab completion for Docker",
     "homepage": "https://github.com/samneirinck/posh-docker",
     "license": "MIT",
@@ -10,9 +10,9 @@
     "suggest": {
         "Docker for Windows": "docker"
     },
-    "url": "https://github.com/samneirinck/posh-docker/archive/v0.7.0.zip",
-    "hash": "a28f2b07c63bd5460115565e9ad1a9b5418f39ef305a82b6268f26635111b69b",
-    "extract_dir": "posh-docker-0.7.0\\posh-docker",
+    "url": "https://github.com/samneirinck/posh-docker/archive/v0.5.1.zip",
+    "hash": "84b34f72133182f89a1398f68b3cf36ec92b59439323ec217a3effefbb628570",
+    "extract_dir": "posh-docker-0.5.1\\posh-docker",
     "psmodule": {
         "name": "posh-docker"
     },
