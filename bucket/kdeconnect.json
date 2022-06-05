@@ -1,12 +1,12 @@
 {
-    "version": "22.04.1-991",
+    "version": "22.04.1-992",
     "description": "Communications and data transfer between devices over local networks",
     "homepage": "https://kdeconnect.kde.org/",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://binary-factory.kde.org/view/Windows%2064-bit/job/kdeconnect-kde_Release_win64/991/artifact/kdeconnect-kde-22.04.1-991-windows-msvc2019_64-cl.7z",
-            "hash": "97a8ca1e6831803d69263dc68c517c8471b8df7cae7614b362b9df7cacfa45c8"
+            "url": "https://binary-factory.kde.org/view/Windows%2064-bit/job/kdeconnect-kde_Release_win64/992/artifact/kdeconnect-kde-22.04.1-992-windows-msvc2019_64-cl.7z",
+            "hash": "099683b5e9ad6021dffd3466918081363b65e5d75b78d966acb61d976ac54b1f"
         }
     },
     "bin": [
