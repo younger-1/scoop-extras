@@ -1,12 +1,12 @@
 {
-    "version": "2.3.1",
+    "version": "2.4.0",
     "description": "HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading.",
     "homepage": "https://github.com/gurnec/HashCheck",
     "license": "BSD-3-Clause",
     "notes": "Before uninstallation, please close Explorer (or other files management tool, e.g., Total Commander) windows where you've used HashCheck from.",
     "depends": "sudo",
-    "url": "https://github.com/gurnec/HashCheck/releases/download/v2.3.1/HashCheckSetup-v2.3.1.exe",
-    "hash": "fc17d2f3fb8859e79d3e18604998812f8e9d8c963ff7761e241b3d1328fccb0f",
+    "url": "https://github.com/gurnec/HashCheck/releases/download/v2.4.0/HashCheckSetup-v2.4.0.exe",
+    "hash": "2d6067f00bbb93526d146d2228a46dc4851f0fa866e69250279c6b2f00b8f1b7",
     "installer": {
         "script": [
             "Expand-7zipArchive -Path \"$dir\\$fname\" -Removal -Overwrite 'Rename'",
