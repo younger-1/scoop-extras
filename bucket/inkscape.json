@@ -1,17 +1,17 @@
 {
-    "version": "1.2",
+    "version": "1.2.1",
     "description": "Professional vector graphics editor",
     "homepage": "https://inkscape.org",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://inkscape.org/en/gallery/item/33465/inkscape-1.2_2022-05-15_dc2aedaf03-x64_XVsf0Ph.7z",
-            "hash": "4cf628a335ce76384633084adda3655d576a0eb073517548e64218ed07abfbd2",
+            "url": "https://inkscape.org/en/gallery/item/34666/inkscape-1.2.1_2022-07-14_9c6d41e410-x64.7z",
+            "hash": "6a964aee3b411303a192d57e620f7f25d8a9b60758fc7d7ab6744393a3172eb9",
             "extract_dir": "idir"
         },
         "32bit": {
-            "url": "https://inkscape.org/en/gallery/item/33498/InkscapePortable_1.2.paf.exe#/dl.7z",
-            "hash": "01cc5316504a1ca7ee75099c61524f860631f6d854ccc84b9e0fbdb42493735b",
+            "url": "https://inkscape.org/en/gallery/item/34740/InkscapePortable_1.2.1.paf.exe#/dl.7z",
+            "hash": "30cb4ff8e66f74d89a9a00431423d60765b277b57eaff244f861dbd0ecd4d7d4",
             "extract_dir": "App\\Inkscape"
         }
     },
