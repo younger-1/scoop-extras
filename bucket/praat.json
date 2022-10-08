@@ -1,16 +1,16 @@
 {
-    "version": "6.2.22a",
+    "version": "6.2.23",
     "description": "The scientific analysis of speech in phonetics",
     "homepage": "http://www.fon.hum.uva.nl/praat/",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/praat/praat/releases/download/v6.2.22a/praat6222_win64.zip",
-            "hash": "9c028a1a3b2c6fe1b62cf174b9cdb09d26763861134ade116304707aef0d8829"
+            "url": "https://github.com/praat/praat/releases/download/v6.2.23/praat6223_win64.zip",
+            "hash": "9e937acfee734806c4b9eb3779cc80d2752e346ba67b88b387b9008daa282868"
         },
         "32bit": {
-            "url": "https://github.com/praat/praat/releases/download/v6.2.22a/praat6222_win32.zip",
-            "hash": "c40fa57cd5178cad2d29325f4a8506610ff729920bf8c1fb5d0ad1eb2a8ce8fd"
+            "url": "https://github.com/praat/praat/releases/download/v6.2.23/praat6223_win32.zip",
+            "hash": "3567ca74aa5fc393690ed1303db5ea19a5c66489c6a9afb89713b3db31ec2798"
         }
     },
     "bin": "Praat.exe",
