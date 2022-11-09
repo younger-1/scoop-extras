@@ -1,10 +1,10 @@
 {
-    "version": "6.1.13",
+    "version": "6.1.14",
     "description": "TagScanner is a powerful tool for organizing and managing your music collection.",
     "homepage": "https://www.xdlab.ru/en/",
     "license": "Unknown",
-    "url": "https://www.xdlab.ru/files/tagscan-6.1.13.zip",
-    "hash": "23e2902a29e79a8562caaf44d43a20293bc6dc77ee6e29ebcbbaad4608d5c83e",
+    "url": "https://www.xdlab.ru/files/tagscan-6.1.14.zip",
+    "hash": "fc26171eefdf59db5d8025ba0521ab4ebda62002e9a2e824656c7a79f163e604",
     "bin": "Tagscan.exe",
     "shortcuts": [
         [
