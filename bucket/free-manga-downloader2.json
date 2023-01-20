@@ -1,16 +1,16 @@
 {
-    "version": "2.0.30.0",
+    "version": "2.0.31.0",
     "description": "Active fork of Free Manga Downloader, an application for managing and downloading manga from various websites.",
     "homepage": "https://github.com/dazedcat19/FMD2",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dazedcat19/FMD2/releases/download/2.0.30.0/fmd_2.0.30.0_x86_64-win64.7z",
-            "hash": "99b6f64692e0f66f7999624efc75575bff37b82e51b78e52f28330b8f967d655"
+            "url": "https://github.com/dazedcat19/FMD2/releases/download/2.0.31.0/fmd_2.0.31.0_x86_64-win64.7z",
+            "hash": "93eaec7aa025139d8f935ff34ec25c643409601ddfe6b42f5c2caf4bad2b03e5"
         },
         "32bit": {
-            "url": "https://github.com/dazedcat19/FMD2/releases/download/2.0.30.0/fmd_2.0.30.0_i386-win32.7z",
-            "hash": "0ed257a700693b4aec48305b2c26ff4c8b78377ddb6b63d30d4c85f8ddf37cb5"
+            "url": "https://github.com/dazedcat19/FMD2/releases/download/2.0.31.0/fmd_2.0.31.0_i386-win32.7z",
+            "hash": "59e7b350810cfbdfad2aaa572f8235df0c1d4a96e7289fe4210a48dc040e98af"
         }
     },
     "pre_install": [
