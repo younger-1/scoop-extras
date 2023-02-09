@@ -1,5 +1,5 @@
 {
-    "version": "10.9.3",
+    "version": "10.9.4",
     "description": "Complete API development environment.",
     "homepage": "https://www.getpostman.com/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://dl.pstmn.io/download/version/10.9.3/windows64#/dl.7z",
-            "hash": "sha1:dfe9bfe82899435380be71f47ed3b60c176f2769"
+            "url": "https://dl.pstmn.io/download/version/10.9.4/windows64#/dl.7z",
+            "hash": "sha1:420a51ff55150bc19f7749d3f33bdc5724b15b09"
         }
     },
     "pre_install": [
