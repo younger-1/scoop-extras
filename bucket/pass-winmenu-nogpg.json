@@ -1,5 +1,5 @@
 {
-    "version": "1.13.1",
+    "version": "1.14",
     "description": "A simple, easy-to-use password manager for Windows that follows the philosophy of (and is compatible with) the Linux password manager pass.",
     "homepage": "https://github.com/Baggykiin/pass-winmenu",
     "license": "MIT",
@@ -10,8 +10,8 @@
             "gpg4win"
         ]
     },
-    "url": "https://github.com/Baggykiin/pass-winmenu/releases/download/v1.13.1/pass-winmenu-nogpg.zip",
-    "hash": "de3b9d1bc745353759a549641373f8df9a844b04c0ee15f890bc492868cedb3e",
+    "url": "https://github.com/Baggykiin/pass-winmenu/releases/download/v1.14/pass-winmenu-nogpg.zip",
+    "hash": "f378c00bfb9861484451a8cd7e13677f77484069e7cd6878ae542a0f4e0428cf",
     "extract_dir": "pass-winmenu",
     "bin": "pass-winmenu.exe",
     "shortcuts": [
