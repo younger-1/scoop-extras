@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1.1026",
+    "version": "1.4.1.1027",
     "description": "Locate files and folders by name instantly.",
     "homepage": "https://www.voidtools.com",
     "license": "MIT",
@@ -7,24 +7,24 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://www.voidtools.com/Everything-1.4.1.1026.x64.zip",
+                "https://www.voidtools.com/Everything-1.4.1.1027.x64.zip",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/install-context.reg",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/uninstall-context.reg"
             ],
             "hash": [
-                "8efd75d62eaf73d616ffc1de7ba1e88abe1742dce800aa6b4ddb81e11e5fed79",
+                "eaaf98041a25d09b1677f72a1c326a0e20acfd70fa550f7ad1cde8363b69cfcb",
                 "6b27de9e61ff039bf42cd07f4da23034c4678a8968403913ba29fa5c5a3b457a",
                 "4904157dfa505d9d97764fe871c22012c9292fc4d1bccb56d7daa6b5b40a89ad"
             ]
         },
         "32bit": {
             "url": [
-                "https://www.voidtools.com/Everything-1.4.1.1026.x86.zip",
+                "https://www.voidtools.com/Everything-1.4.1.1027.x86.zip",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/install-context.reg",
                 "https://raw.githubusercontent.com/ScoopInstaller/Extras/master/scripts/everything/uninstall-context.reg"
             ],
             "hash": [
-                "297196b7a8eff8c31e2644e258d7f62bdc33c0270c214dd7f6635df9c84f9dbe",
+                "72d35c18b627750d4abf6b28d9ec6c5b270e0144512cedecf4bbb3f701605f34",
                 "6b27de9e61ff039bf42cd07f4da23034c4678a8968403913ba29fa5c5a3b457a",
                 "4904157dfa505d9d97764fe871c22012c9292fc4d1bccb56d7daa6b5b40a89ad"
             ]
