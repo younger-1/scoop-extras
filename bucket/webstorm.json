@@ -1,13 +1,13 @@
 {
-    "version": "2026.2.1-262.9437.145",
+    "version": "2026.2.2-262.10315.144",
     "description": "Cross-Platform IDE for JavaScript by JetBrains.",
     "homepage": "https://www.jetbrains.com/webstorm/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/store/license.html"
     },
-    "url": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.1.exe#/dl.7z",
-    "hash": "86a7405254698e3a79d3afe3e5a655c7d2c8fafb2272f7b0c9fddc0426579324",
+    "url": "https://download.jetbrains.com/webstorm/WebStorm-2026.2.2.exe#/dl.7z",
+    "hash": "0f0e0e6b92398e85bc6dbec6ebca4e199fc9a11509d742826ef18dc381bc60e5",
     "extract_to": "IDE",
     "installer": {
         "script": [
