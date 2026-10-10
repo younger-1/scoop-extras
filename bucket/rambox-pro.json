@@ -1,13 +1,13 @@
 {
-    "version": "3.1.0",
+    "version": "2.7.2",
     "description": "Tool for organizing web apps into one application with rich features",
     "homepage": "https://rambox.pro",
     "license": {
         "identifier": "Proprietary",
         "url": "https://rambox.pro/#eula"
     },
-    "url": "https://github.com/ramboxapp/download/releases/download/v3.1.0/RamboxPro-3.1.0-win.exe#/cosi.7z",
-    "hash": "sha512:dffdcbc6081db6e2d46211f93924cea2e3cf54e7982137eba75d5463b73a2a5a9509533f837dc9f607fbcb991f42bb31fb3de76fe13ce1f6babe3ec2ddd92d60",
+    "url": "https://github.com/ramboxapp/download/releases/download/v2.7.2/RamboxPro-2.7.2-win.exe#/cosi.7z",
+    "hash": "sha512:f4c6617772effce83d22a4273b097b0effec07a0df4e5c71f38b9af8db65a3d2b81af725dbf47c461d5494d108331d09f7eaeffa23256c0b35250090ab9dcc6b",
     "architecture": {
         "64bit": {
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
